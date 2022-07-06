@@ -4,7 +4,7 @@
 const Login: React.FC = () => {
   return (
     <>
-      Login
+      <div>Login</div>
     </>
   )
 }
